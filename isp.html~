@@ -1,0 +1,55 @@
+<html>
+  <body style="background-color:AliceBlue;">
+    <h1>
+      <center style="font-size:200%; font-family:verdana;">Devon Leerssen
+      </center>
+    </h1>
+    <p style="font-size:100%; font-family:arial;">
+      <center>
+	The Best Coder in the World
+      </center>
+    </p>
+    <div style="border:2px solid powderblue; box-sizing:border-box; padding:70px; background-color:white;">
+      <div style="width:50%; float: left;">
+	<h style="font-size:200%">
+	  <center><b><i>
+	    My ISP
+	  </center></b></i>
+	</h>
+	<p>
+	  My ISP, or Independent Study Project, was a project done in my Computer Science class where we were required to make a video game coded in swift on the IGIS engine. I chose to make a game in which you are a square that can jump over spikes and obstales. However, instead of the square moving across the screen, the level scrolls and you jump over obstacles as they come to you.
+	</p>
+	<p><center><b>
+	    Motivation
+	</p></center></b>
+	<p>
+	  My main motivation for this project was the impending deadline for when it was due.
+      </div>
+      <div style="width:45%; margin-left:55%; vertical-align:text-top;">
+	<h><b>
+	  Code Segment 1
+	</h></b>
+	<p>
+	  This code segment displays how the infinite background scrolling was done. Basically, 2 images are put side by side and scroll to the edge of the screen. Once the first image's top left corner passes the edge of the screen, the two images are teleported back. This gives the illusion of infinite scrolling.
+	  </p>
+	<img src="https://codermerlin.com/users/devon-leerssen/code.png" width="100%" height="">
+	<br>
+	</img>
+	<h><b>
+	  Code Segment 2
+	</h></b>
+	<p>
+	  This code segment displays a function that when given an x and y value, it draws a spike in that location. This is done by using the x and y values given to draw a path to create a spike.
+	  </p>
+	<img src="https://codermerlin.com/users/devon-leerssen/code2.png" width="100%" height="">
+	</img>
+      </div>
+    </div>
+    <p><center>
+	<a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/port.html">About Me</a><br>
+	  Classes I've Taken<br>
+	  <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/isp.html">My ISP</a><br>
+	  <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/learn.html">What I've Learned</a>
+    </p></center>
+  </body>
+</html>
