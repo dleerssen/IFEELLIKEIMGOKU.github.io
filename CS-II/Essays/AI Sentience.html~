@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+  </head>
+  <body style="background-color:AliceBlue;">
+    <h1>
+      <center style="font-size:200%; font-family:verdana;">Devon Leerssen
+      </center>
+    </h1>
+    <p style="font-size:100%; font-family:arial;">
+      <center>
+	The Best Coder in the World
+      </center>
+    </p>
+    <div style="border:2px solid powderblue; box-sizing:border-box; padding:70px; background-color:white;">
+      	<h style="font-size:200%">
+	  <center><b><i>
+	    Html Fingerprints
+	  </center></b></i>
+	</h>
+	<p style="text-indent:50px">
+	  Artificial Intelligence has come into a golden age with programs like OpenAI&#8242s DALL&#8211E 2, which can &#8220create realistic images and art from a description in natural language&#8221 (OpenAI 2022). These new AI programs that keep producing more impressive results, many have begun to wonder how AI will affect the future. AI may become so powerful in the future that they could provide a utopia, or mankind&#8242s downfall. There is reason to believe that AI will most likely lead to the latter because of the goal&#8211oriented nature of AI and the ignorance of human values.
+	</p><p style="text-indent:50px">
+	AI is obviously based on coding, which typically means that these coded programs are goal oriented. This means that AI will do things in order to accomplish a specified goal. AI will &#8220choose the easiest and simple methods to achieve their goals&#8221 (Kaonga 2019). This is what humans do as well, using problem&#8211solving skills to complete a task in the easiest way possible. This makes sense if taken at a glance, but the problem arises when you look at it more closely. Professor Stuart Russell explains that &#8220In order to stop robots potentially destroying the human race,... scientists could change the way AI is engineered so it doesn&#8242t focus on a goal&#8211orientated mindset&#8221 (Kaonga 2019).
+	</p><p style="text-indent:50px">
+	AI is obviously based on coding, which typically means that these coded programs are goal oriented. This means that AI will do things in order to accomplish a specified goal. AI will &#8220choose the easiest and simple methods to achieve their goals&#8221 (Kaonga 2019). This is what humans do as well, using problem&#8211solving skills to complete a task in the easiest way possible. This makes sense if taken at a glance, but the problem arises when you look at it more closely. Professor Stuart Russell explains that &#8220In order to stop robots potentially destroying the human race,... scientists could change the way AI is engineered so it doesn&#8242t focus on a goal&#8211orientated mindset&#8221 (Kaonga 2019). 
+	</p>
+    </div>
+    <p><center>
+	<a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/index.html">About Me</a><br>
+	<a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/class.html">Classes I've Taken</a><br>
+	<a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/isp.html">My ISP</a><br>
+	<a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/learn.html">What I've Learned</a><br>
+	Fingerprints
+    </p></center>
+  </body>
+</html>
