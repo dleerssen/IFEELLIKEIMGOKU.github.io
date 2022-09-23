@@ -16,15 +16,15 @@
       <div style="width:50%; float: left;">
 	<h class="colorful">
 	  <center><b><i>
-	    What I've Learned in Computer Science
+	    Optimal Sorting Program
 	  </center></b></i>
 	</h>
 	<p>
-	I have learned the coding languages of swift and HTML, as well as the program IGIS. II have also learned more about coding in general and how it functions, so I can apply it to new coding languages I learn in the future.
+	<a href="https://github.com/CSAllenISDClassroom/Optimal-Sorting">Link to Github Repository</a>
       </p>
       </div>
       <div style="width:45%; height:125px; margin-left:55%; vertical-align:text-top;">
-	<img src="https://www.business2community.com/wp-content/uploads/2015/02/coding-powers.jpg" height="500" width="100%">
+	<img src="https://github.com/CSAllenISDClassroom/Optimal-Sorting/blob/main/optinalFlowchart.jpg?raw=true" height="500" width="100%">
       </div>
     </div>
     <p><center>
