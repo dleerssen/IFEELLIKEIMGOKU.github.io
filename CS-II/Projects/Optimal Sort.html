@@ -1,7 +1,7 @@
 <html>
   <head>
     <link rel="stylesheet" href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/index.css">
-    </head>
+  </head>
   <body>
     <h1>
       <center style="font-size:200%; font-family:verdana;">Devon Leerssen
@@ -16,7 +16,7 @@
       <div style="width:50%; float: left;">
 	<h class="colorful">
 	  <center><b><i>
-	    Optimal Sorting Program
+		Optimal Sorting Program
 	  </center></b></i>
 	</h>
 	<p>
@@ -24,11 +24,86 @@
 	  <a href="https://docs.google.com/spreadsheets/d/1JhrWZRio3HvzsvJSYEMfE1B_K34FRpQZE49fZ3xpRAI/edit?usp=sharing">Link to Spreadsheet</a><br>
 	  <a href="https://docs.google.com/spreadsheets/d/1SMX3bUA9vlMZjpSv-mftZout64kbeLCH2tUt0HVNtV4/edit?usp=sharing">Link to Summary Spreadsheet</a><br> 
 	  People Who Contributed: Zachary Chandler, Devon Leerssen, Sophia Tran, and Hoang Nguyen
-      </p>
+	</p>
       </div>
       <div style="width:45%; height:125px; margin-left:55%; vertical-align:text-top;">
 	<img src="sort.PNG" height="500" width="100%">
       </div>
+    </div>
+    <div style="border:2px solid powderblue; box-sizing:border-box; padding:70px; background-color:white; height:3000px">
+      <div style="width:50%; float: left;">
+	<h class="colorful">
+	  <center><b><i>
+		Sorting Project
+	  </center></b></i>
+	</h>
+	<p style="font-size:130%">
+	  Links to Github Repositories
+	</p>
+	<p>
+	  <a href="https://github.com/IFEELLIKEIMGOKU/Insertion">Insertion Sort</a><br>
+	  <a href="https://github.com/IFEELLIKEIMGOKU/Selection">Selection Sort</a><br>
+	  <a href="https://github.com/IFEELLIKEIMGOKU/MySort">Quicksort (my group project)</a><br>
+	  <a href="https://github.com/IFEELLIKEIMGOKU/Bubble">Bubble Sort</a><br>
+	</p>
+	<p style="font-size:130%">Spreadsheets</p>
+	<p>
+	  <a href="https://docs.google.com/spreadsheets/d/1aUvKnuAzCeRZ9z9jqmdgZFibPuH7z2dSKySlzxQoWCY/edit?usp=sharing">Link to Spreadsheet</a><br>
+	  <a href="https://docs.google.com/spreadsheets/d/1n_bnL8ffVqHC9LPH48LpMZK3RFlbJejWp5coDMU0rzY/edit?usp=sharing">Link to Summary Spreadsheet</a><br> 
+	</p>
+      </div>
+      <div style="width:45%; height:1000px; margin-left:55%; vertical-align:text-top;">
+	<p style="text-align:center; font-size:130%">
+	  Timings of Various Sorts With Various Types of Groups of Strings
+	</p>
+	<img src="graphfull.PNG" height="500" width="100%">
+	<p style="text-align:center"><b>Key</b></p>
+	<table style="width:100%">
+		  <tr>
+		    <td style="color:purple">Bubble</td>
+		    <td style="color:blue">Selection</td>
+		    <td style="color:red">Insertion</td>
+		    <td style="color:green">QuickSort</td>
+		  </tr>
+		  <tr>
+		    <td>Solid Line: Random Strings</td>
+		    <td>Dashed Line: Reverse Strings</td>
+		    <td>Dotted Line: Ordered Strings</td>
+		  </tr>
+	</table>
+	<p>
+	  To clarify, each line in the graph does not perfectly cross every point, it is a quadratic regression line of best fit for each type of sort. Each of these sorting algorithms show a very strong resembelence to a quadratic equation on the graph. when caculating the line of best fit, the value R, which is a variable describing the the accurracy of the graph, turned out to be .99 in almost every case, and this is out of 0-1. Since these equaions are so closely accurate to the data points on the graph, the equations can be used to describe how long sorting algorithms would take for a certain amount of strings. For example, according to the line of best fit, my insertion sorting algorithm should take about 45 min to complete, way surpassing the 5 min time out on the shell. 
+      </div>
+      <p style="text-align:center; font-size:130%">
+	This graph is a bit cluttered, so I created graphs for each type of grouping of strings.
+      </p>
+      <div style="width:50%; float: left;">
+	<p style="text-align:center">
+	  Random
+	</p>
+	<img src="graph1.PNG" height="500" width="100%">
+	<p>
+	  With random sorts, quicksort just absolutely demolishes the other sorts. Looking at the random sorts is a good way to test an algorithm's efficiency because random is usually what algorithms are sorting.
+	</p>
+      </div>
+      <div style="width:45%; height:700px; margin-left:55%; vertical-align:text-top;">
+	<p style="text-align:center">
+	  Reverse Ordered
+	</p>
+	<img src="graph2.PNG" height="500" width="100%">
+	Some sorts struggle with reverse order more than others, specifically bubble sort, because bubble sort speeds up if some strings happen to already be in order. 
+      </div>
+      <p style="text-align:center">
+	Ordered
+      </p>
+      <img src="graph3.PNG" height="500" width="50%" style="margin-left:25%">
+      <p style="margin-left:27%; margin-right:25%">
+	Interestingly, Insertion and Selection took longer to perform the sort than normal, and I don't know why that is. What I do know, is that bubble sort only has to go through the array once, so no swaps are made and the algorithm is insanely fast. The line for bubble sort in the ordered case is actually linear because it makes no swaps so it&#8242s solely based on the amount of strings.
+      </p>
+      <p style="text-align:center; margin-top:100px; font-size:200%">Summary</p>
+      <p style="margin-left:27%; margin-right:25%">
+	Based on these graphs, each sort's time taken to sort an array of strings is related quadratically with the number of strings in the array. This is proven in my graphs with the quadratis line of best fit resembling very closely to the actual data points from my testing.
+	</p>
     </div>
     <p><center>
 	<a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/index.html">About Me</a><br>

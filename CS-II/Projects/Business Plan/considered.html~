@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Digital Portfolio</title>
+    <style>
+.divp {
+    width:49%;
+    height:200px;
+    float:left
+}
+
+  </head>
+  <body style="background-color:AliceBlue;">
+    <h1 style="text-align:center; font-size:400%; font-family:verdana;">
+      Devon Leerssen
+    </h1>
+    <p style="text-align:center; font-size:100%; font-family:arial;">
+      The Best Coder in the World
+    </p>
+    <div style="border:2px solid powderblue; box-sizing:border-box; padding:70px; height:3000px; background-color:white;">
+      <table style="border:1px solid black; width:100%">
+	<tr>
+	  <th style="border:1px solid black; width:50%">Reason Why I Did Not Choose/Did Choose</th>
+	  <th style="border:1px solid black">Link</th>
+	</tr>
+      </table>
+      <div class="divp">
+	<p class="pmain">This project is a bot that reviews hashtags and posts on Instagram to help businesses be up to date with trends. This project is definetly helpful for businesses and would make improve connections between the consumer and the buiness, which is what businesses want. However, I have a problem with this, which is that it kind of already exists with things like the trending tab in Twitter, so companies could just look there for insight on trends.</p>
+      </div>
+      <div class="divlink">
+	<center>
+	  <a href="https://www.codermerlin.com/users/aidan-valva/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html">Aidan Valva's Project</a>
+	</center>
+      </div>
+      <div class="divp">
+	<p class="pmain">The ISP is a website which includes information about all Allen High School clubs and when each of their events are. This would be nice for students seeing if their is a club that they want to join or to see when their events and meetings are. Although what the profit is for this project is unclear, and there is already a clubs page on the Allen High School website which explicitly displays all the clubs at the high school.</p>
+      </div>
+      <div class="divlink">
+	<center>
+	  <a href="https://www.codermerlin.com/users/daniel-joung/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html">Evan Bowerman's Project</a>
+	</center>
+      </div>
+      <div class="divp">
+	<p class="pmain">TheFit is an app that generates an outfit depending on variables based on the individual using the app, where they are going, and the weather. The ISP is very original, and I often do have those days where I have no idea what to wear. I would heavily consider joining the group, however this would be a 6 person group, which is an overwhelming amount of people to work on a project, especially not having any backgrounds wiht the group members.</p>
+      </div>
+      <div class="divlink">
+	<center>
+	  <a href="https://www.codermerlin.com/users/jana-daouk/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html">jana-daouk And zaenb-al-ameri's Project</a>
+	</center>
+      </div>
+      <div class="divp">
+	<p class="pmain">This project aims to take attendence of students using facial recognition technology. Teachers would benefit from this, not having to take roll, and the students wouldn't have to take attendence themselves. The problem is that students checking off a clipboard at the front of the classroom essentially accomplishes the same thing. Also, it would be hard to prevent errors in calculating attendence with unreliable facial recognition software.</p>
+      </div>
+      <div class="divlink">
+	<center>
+	  <a href="https://www.codermerlin.com/users/joshua-lee/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html">joshua-lee's Project</a>
+	</center>
+      </div>
+      <div class="divp">
+	<p class="pmain">LetsGo! is a website that recommends places for friends to hang out based on what they like to do, hao far they can go, etc.. I often find that my friends and I have run out of ideas on where to hangout, so I could see this website helping lots of people. My only problem with the app is the location gathering. Just marking every restuarant, park, bowling alley, arcade, or basketball court would be very tedious work.</p>
+      </div>
+      <div class="divlink">
+	<center>
+	  <a href="https://www.codermerlin.com/users/varun-natarajan/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html">varun-natarajan's Project</a>
+	</center>
+      </div>
+      <div class="divp">
+	<p class="pmain">Bolt is a Computer Science forum/social media app where users can create rooms and have computer science related discussions, ultimately to help kids to better understand computer science. What I like about this project is the way to get tutoring from a different person that is not the student's teacher, and being able to discuss freely without compensation. My problem is that this is essentially just a forum, which are already very common across the internet. </p>
+      </div>
+      <div class="divlink">
+	<center>
+	  <a href="https://www.codermerlin.com/users/myoram-langwang/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html">myoram-langwang, george-winters, matthew-roman, and mason-williams's Project</a>
+	</center>
+      </div>
+      <div class="divp">
+	<p class="pmain">SmartShop is a website or app that gathers listings for clothes from many outlets and recommends clothes to the user based on personal preferences. This would prevent surfing the web, going to every clothing website to find what you are looking for. The issue is that it would be very difficult to gather the information from all the clothing stores and websites.</p>
+      </div>
+      <div class="divlink">
+	<center>
+	  <a href="https://www.codermerlin.com/users/md-raeed/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html">md-raeed, reynard-gunawan, isaac-pandyan, and avanish-jeendru's Project</a>
+	</center>
+      </div>
+      <div class="divp">
+	<p class="pmain">This project is a 2D fighting game that is planned to be sold on Steam. I would love to code a fighting game, as it would be fun to try and figure out balances between characters and coming up with different moves. The issue is the lack of exact goals or a basis for the fighting game, and the amount of people in the group.</p>
+      </div>
+      <div class="divlink">
+	<center>
+	  <a href="https://www.codermerlin.com/users/ibrahim-deir/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html">ibrahim-deir, caysen-mayo, kyle-hernandez, and eric-steiner's Project</a>
+	</center>
+      </div>
+      <div class="divp">
+	<p class="pmain">This game is supposed to bring back the real time strategy games from the past, reinvisioning the style in something new. This would be fun to create a game of this style, as it is a new experience for me as I have never played a game like this. However, I don't believe this genre of video game would be very popular in today's industry, as it has not really been in the meta of video games for several years.</p>
+      </div>
+      <div class="divlink">
+	<center>
+	  <a href="https://www.codermerlin.com/users/robert-brugger/Digital%20Portfolio/CS-III/Projects/Business%20Plan/index.html">robert-brugger's Project</a>
+	</center>
+      </div>
+      <div class="divp">
+	<p class="pmain">ShelterSafe is an amazing project which aims to display locations that a person could use for shelter in the event of a natural disaster or other event that would need shelter. This has the potential to save many lives, especially in places where tornados or hurricanes are common. Even without the lives saved, it spreads awareness of shelter locations, so even if someone is not able to use the app, they would know what to do. The amount of people in the group is not too large or small, making it easy to collaborate on coding. This project would be great on my college resume, and I believe it is achievable and worthy of my time.</p>
+      </div>
+      <div class="divlink">
+	<a href="https://www.codermerlin.com/users/onik-hoque/Digital%20Portfolio/CS-II/Projects/Business%20Plan/index.html">onik-hoque and pranav-krishnan's Project</a>
+      </div>
+    </div>
+    <p style="text-align:center">
+      About Me<br>
+      <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/class.html">Classes I've Taken</a><br>
+      <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/isp.html">My ISP</a><br>
+      <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/learn.html">What I've Learned</a><br>
+      <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/CS-II/Essays/Fingerprints.html">Fingerprints</a><br>
+      <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/CS-II/Essays/AI%20Sentience.html">AI</a><br>
+      <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/CS-II/Projects/Optimal%20Sort.html">Sorting</a><br>
+      <a href="https://github.com/IFEELLIKEIMGOKU/IFEELLIKEIMGOKU.github.io">Github</a>
+    </p>
+  </body>
+</html>

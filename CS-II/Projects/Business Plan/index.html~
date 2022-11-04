@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Digital Portfolio</title>
+  </head>
+  <body style="background-color:AliceBlue;">
+    <h1 style="text-align:center; font-size:400%; font-family:verdana;">
+      Devon Leerssen
+    </h1>
+    <p style="text-align:center; font-size:100%; font-family:arial;">
+      The Best Coder in the World
+    </p>
+    <div style="border:2px solid powderblue; box-sizing:border-box; padding:70px; height:1500px; background-color:white;">
+      <div style="width:45%; height:250px; float: left;">
+	<p style="text-align:center; font-size:200%">
+	  <b>
+	    <i>
+	      Identity
+	    </i>
+	  </b>
+	</p>
+	<p style="font-size:130%; text-align:center">
+	  Click Battle (temporary name) is a game in which you click a button that increments a global counter which tallies every click from every person who clicks it on any device.
+	</p>
+      </div>
+      <div style="width:45%; height:250px; margin-left:55%; vertical-align:text-top;">      
+	<img href="">
+      </div>
+      <hr>
+      <div style="width:45%; height:125px; float:left;">
+	<p style="text-align:center; font-size:200%">
+	  <b>
+	    <i> 
+	      Problem
+	    </i>
+	  </b>
+	</p>
+	<p style="font-size:130%; text-align:center">
+	  This game sounds like a glorified cookie clicker, so it would be considered boring. Also, everyone loves competition, so adding a component of competition would be necessary. Another problem is autoclickers.
+	</p>
+      </div>
+      <div style="width:45%; height:250px; margin-left:55%; vertical-align:text-top;">
+	<p style="text-align:center; font-size:200%">
+	  <b>
+	    <i>
+	      Solution
+	    </i>
+	  </b>
+	</p>
+	<p style="font-size:130%; text-align:center">
+	  The game has a global leaderboard of who has clicked the most. The button will constantly move to a new spot every time you click it. Players who are casually playing will still have a reason to play, being that rewards and achievements will be rewarded for reaching certain milestones.
+	</p>
+      </div>
+      <hr>
+      <div style="width:45%; height:125px; float:left;">
+	<p style="text-align:center; font-size:200%">
+	  <b>
+	    <i>
+	      Target Market
+	    </i>
+	  </b>
+	</p>
+	<p style="font-size:130%; text-align:center">
+	  Young people who love playing pointless games with competition. Since games like Cookie Clicker worked so well on the younger generation, it is wise to market towards them.
+	</p>
+      </div>
+      <div style="width:45%; height:250px; margin-left:55%; vertical-align:text-top;">  
+	<p style="text-align:center; font-size:200%">  
+	  <b>  
+	    <i>  
+	      Competition
+	    </i>  
+	  </b>  
+	</p>  
+	<p style="font-size:130%; text-align:center">  
+	  There’s not really another game like this right now, but competition could be games like Cookie Clicker, which don’t have a global leaderboard or global counter, so my game has an added edge on the competition with the competition aspect.
+	</p>  
+      </div>  
+      <hr>
+      <div style="width:45%; height:125px; float:left;">    
+	<p style="text-align:center; font-size:200%">    
+	  <b>    
+	    <i>    
+	      Marketing Activities
+	    </i>    
+	  </b>    
+	</p>    
+	<p style="font-size:130%; text-align:center">
+	  There will be a prize for the person first on the leaderboard, where they will get to add their name and an image or video to the background of the game, as well as something tangible such as a t-shirt. The game will also be marketed through social media like Twitter and Instagram.
+	</p>    
+      </div>    
+      <div style="width:45%; height:250px; margin-left:55%; vertical-align:text-top;">      
+	<p style="text-align:center; font-size:200%">      
+	  <b>      
+	    <i>      
+	      Expenses
+	    </i>      
+	  </b>      
+	</p>      
+	<p style="font-size:130%; text-align:center">      
+	  It will take power to keep the program constantly running on a computer or server, however besides that the expenses should not be very high at all.	  
+	</p>      
+      </div>      
+      <hr>
+      <div style="width:45%; height:125px; float:left;">        
+	<p style="text-align:center; font-size:200%">        
+	  <b>        
+	    <i>        
+	      Team and Key Roles
+	    </i>        
+	  </b>        
+	</p>        
+	<p style="font-size:130%; text-align:center">
+	  Currently, the only member is Devon Leerssen, the owner, however others could help with online marketing and promotion, so the game could reach a wider audience.
+	</p>        
+      </div>        
+      <div style="width:45%; height:250px; margin-left:55%; vertical-align:text-top;">          
+	<p style="text-align:center; font-size:200%">          
+	  <b>          
+	    <i>          
+	      Milestones
+	    </i>          
+	  </b>          
+	</p>          
+	<p style="font-size:130%; text-align:center">          
+	  One huge part of the game will be the global counter milestones. For example, if the community gets the counter to 10,000, then something new would be added to the game.
+	</p>          
+      </div>          
+    </div>
+    <p style="text-align:center">
+      About Me<br>
+      <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/class.html">Classes I've Taken</a><br>
+      <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/isp.html">My ISP</a><br>
+      <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/learn.html">What I've Learned</a><br>
+      <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/CS-II/Essays/Fingerprints.html">Fingerprints</a><br>
+      <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/CS-II/Essays/AI%20Sentience.html">AI</a><br>
+      <a href="https://codermerlin.com/users/devon-leerssen/Digital%20Portfolio/CS-II/Projects/Optimal%20Sort.html">Sorting</a><br>
+      <a href="https://github.com/IFEELLIKEIMGOKU/IFEELLIKEIMGOKU.github.io">Github</a>
+    </p>
+  </body>
+</html>
